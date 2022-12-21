@@ -23,7 +23,7 @@ export function PostInfo() {
         </a>
       </nav>
 
-      <strong>JavaScript data types and data structures</strong>
+      <strong>Boas Práticas</strong>
 
       <div className="infos">
         <span>
